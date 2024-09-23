@@ -1,3 +1,9 @@
+// a Hero section
+// @author: Maphuti Shilabje
+// email: fabridgeshilabje01@gmail.com
+
+
+
 const Hero = () => (
     <section className="h-screen flex items-center justify-center text-center">
       <div>

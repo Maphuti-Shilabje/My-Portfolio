@@ -1,5 +1,7 @@
-
-
+// a Experience page
+// @author: Maphuti Shilabje
+// email: fabridgeshilabje01@gmail.com
+import TimelineItem from "./TimeLineIterm";
 
 const Experience = () => (
     <section id="experience" className="py-24">

@@ -1,3 +1,11 @@
+// a contact me page
+// @author: Maphuti Shilabje
+// email: fabridgeshilabje01@gmail.com
+
+import React from 'react';
+
+
+
 const Contact = () => (
     <section id="contact" className="py-24">
       <div className="container mx-auto px-5 text-center">

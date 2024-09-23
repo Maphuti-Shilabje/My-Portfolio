@@ -1,3 +1,8 @@
+// a projects page
+// @author: Maphuti Shilabje
+// email: fabridgeshilabje01@gmail.com
+import ProjectCard from './ProjectCard';
+
 const Projects = () => (
     <section id="projects" className="py-24">
       <div className="container mx-auto px-5">

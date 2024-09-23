@@ -1,3 +1,9 @@
+// a skills section
+// @author: Maphuti Shilabje
+// email: fabridgeshilabje01@gmail.com
+
+
+
 const Skills = () => (
     <section id="skills" className="py-24">
       <div className="container mx-auto px-5">

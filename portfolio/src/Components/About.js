@@ -1,3 +1,11 @@
+// About me page
+// @author: Maphuti Shilabje
+// email: fabridgeshilabje01@gmail.com
+
+
+
+import React from 'react';
+
 const About = () => (
     <section id="about" className="py-24">
       <div className="container mx-auto px-5">

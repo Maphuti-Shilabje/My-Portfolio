@@ -1,4 +1,6 @@
-
+// a hadder page
+// @author: Maphuti Shilabje
+// email: fabridgeshilabje01@gmail.com
 
 
 const Header = () => (
