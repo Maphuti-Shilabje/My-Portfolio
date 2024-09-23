@@ -21,6 +21,7 @@ const Footer = () => (
         <div className="mb-6">
           {socialLinks.map((link, index) => (
             <a 
+            key={link.id}
             href={link.url} target="_blank" rel="noopener noreferrer" 
             className="text-gray-300 mx-2 text-2xl hover:text-teal-400 transition-colors duration-300">
               <FontAwesomeIcon icon={link.icon} />
