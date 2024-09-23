@@ -10,21 +10,21 @@ const Experience = () => (
         <div className="relative max-w-4xl mx-auto">
           <div className="absolute w-1 bg-blue-900 h-full left-1/2 transform -translate-x-1/2"></div>
           <TimelineItem
-            position="Full Stack Developer Intern"
-            company="TechCorp Solutions"
-            date="June 2023 - August 2023"
+            position="Experience 1 Example"
+            company="Company name"
+            date="June 20xx - August 20xx"
             isLeft={true}
           />
           <TimelineItem
-            position="Open Source Contributor"
-            company="Various Projects"
-            date="2022 - Present"
+            position="Experience 2 Example"
+            company="Company name"
+            date="20xx - 20xx"
             isLeft={false}
           />
           <TimelineItem
-            position="Teaching Assistant - Data Structures"
-            company="University of Cape Town"
-            date="January 2023 - May 2023"
+            position="Experience 3 Example"
+            company="Company name"
+            date="January 20xx - May 20xx"
             isLeft={true}
           />
         </div>

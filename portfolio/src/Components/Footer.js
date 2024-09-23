@@ -9,9 +9,9 @@ import { faGithub, faLinkedin, faTwitter, faDev } from '@fortawesome/free-brands
 
 const socialLinks = [
   { icon: faGithub, url: 'https://github.com/Maphuti-Shilabje' },
-  { icon: faLinkedin, url: 'https://linkedin.com/in/yourusername' },
-  { icon: faTwitter, url: 'https://twitter.com/yourusername' },
-  { icon: faDev, url: 'https://dev.to/yourusername' },
+  { icon: faLinkedin, url: 'https://linkedin.com/in/maphuti-shilabje-997841241/' },
+  { icon: faTwitter, url: '#' },
+  { icon: faDev, url: '#' },
 ];
 
 
